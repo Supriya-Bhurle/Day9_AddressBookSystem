@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="023acb78-d673-40a0-aa08-29d28d633133" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/AddressBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/AddressBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/AddressBookMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/AddressBookMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/PersonDetails.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
