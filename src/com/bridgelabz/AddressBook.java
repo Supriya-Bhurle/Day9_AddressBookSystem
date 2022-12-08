@@ -12,7 +12,7 @@ public class AddressBook {
         Scanner sc = new Scanner(System.in);
         ArrayList<Data> contact = new ArrayList<Data>();
         while (choice != 0) {
-            System.out.println("Press Bellow option which you want :");
+            System.out.println("Press bellow option");
             System.out.println(" 0. Exit. ");
             System.out.println(" 1. Add contact. ");
             System.out.println(" 2. Edit contact. ");
@@ -42,10 +42,10 @@ public class AddressBook {
                     break;
                 case 2:
                     Scanner scan = new Scanner(System.in);
-                    System.out.println("Enter name you want to be edit :");
+                    System.out.println("Enter name u wont to be edit");
                     String num = scan.nextLine();
                     scan.nextLine();
-                    System.out.println("Enter new name : ");
+                    System.out.println("Enter new name ");
                     String newName = scan.nextLine();
                     for (int i = 0; i < contact.size(); i++) {
                         if (contact.get(i).getName().equals(num)) {
@@ -64,7 +64,7 @@ public class AddressBook {
                     break;
                 case 4:
                     Scanner scanner = new Scanner(System.in);
-                    System.out.println("Enter name you want to be delete : ");
+                    System.out.println("Enter name you wont to be delete");
                     String number = scanner.nextLine();
                     scanner.nextLine();
                     for (int k = 0; k < contact.size(); k++) {
