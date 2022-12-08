@@ -1,13 +1,13 @@
 package com.bridgelabz;
 
 public class Data {
-    private String name =null;
-    private String surName =null;
-    private String address=null ;
-    private String  city=null ;
-    private String state= null ;
-    private String contactNumber=null ;
-    private String zip =null;
+    private String name ;
+    private String surName;
+    private String address;
+    private String  city ;
+    private String state;
+    private String contactNumber;
+    private String zip;
     private String gmail ;
     public Data(String name,String surName,String Address,String  city, String state,String contactNumber,
                 String zip,String gmail){
